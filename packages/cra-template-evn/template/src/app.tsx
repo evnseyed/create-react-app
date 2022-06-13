@@ -6,4 +6,4 @@ export const App = () => {
 			App
 		</div>
 	);
-}
+};
